@@ -1,6 +1,6 @@
 
 class MyShop{
-   String shopName="YOKOZ COLLECTION";
+   String shopName="PUBG COLLECTION";
    String about="Mens Clothing Centre";
    String time="10 am to 10 pm";
    double review=4.5;
