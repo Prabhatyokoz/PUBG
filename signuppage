@@ -1,0 +1,5 @@
+class Signup
+   String regdNo="enter regd. no";
+   String details="name";
+   String location="place";
+   }
