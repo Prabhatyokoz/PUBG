@@ -1,0 +1,5 @@
+class Login
+   String num="regd no";
+   String password="password";
+   
+   }
