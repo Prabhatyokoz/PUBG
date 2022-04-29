@@ -1,0 +1,5 @@
+class Dashboard{
+   int pageNumber=1;
+   String avtaar="choose";
+   
+}
